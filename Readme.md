@@ -1,1 +1,1 @@
-
+sudo python GuvenlikDuvariTarayici.py
